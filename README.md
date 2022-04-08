@@ -51,3 +51,5 @@ the downtown core of Manhattan is the most popular ending location and gets less
 ## Summary
 
 In summation, the bulk of the business of Citibike NY come from subscribers. The majority of subscribers are male.  Most of the subscribers are using this service to get too and from work.  You also get a healthy amount of tourists using Citibikes on weekends.  
+
+[link to dashboard](https://public.tableau.com/views/Book2_16494341266660/NYCCITIBIKE?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
